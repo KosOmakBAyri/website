@@ -1,3 +1,11 @@
+
+
+/*all rights reserved AA*/
+
+body {
+  border: 2px solid black;
+}
+
  h5 {
   font-family:cursive;
     position: absolute;
@@ -12,14 +20,15 @@
                 padding: 0;
               }
 
-              .lamborghini {
+/*cars area*/
+.lamborghini {
               display: block;
               margin-left: auto;
               margin-right: auto;
               width: 50%;
             }
 
-            .Audi {
+.Audi {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -53,3 +62,39 @@
   margin-right: auto;
   width: 50%;
 }
+/*end of car area*/
+
+/*beginning of tabe area*/
+table, th, td {
+  border: 2px solid black;
+}
+
+th, td {
+  padding: 15px;
+}
+
+th {
+  text-align: left;
+  font-size: 20px;
+  font-family: georgia;
+}
+
+table {
+  border-spacing: 5px;
+}
+
+table#t01 {
+  width: 100%;
+  background-color: #5f9ea0;
+}
+
+ .t01caption {
+   font-size: 36px;
+   font-family:fantasy;
+ }
+
+ td {
+   font-family:Helvetica;
+ }
+
+/*end of table area*/
