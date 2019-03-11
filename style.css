@@ -1,5 +1,35 @@
 /* all rights reserved */
 
+/*nav bar*/
+
+ul#nav1 {
+  margin:0px;
+  padding:0px;
+  list-style: none;
+  color:blue;
+}
+
+ ul#nav1, li#li1 {
+  float:left;
+  width:200px;
+  height:40px;
+  background-color:grey;
+  opacity:.8;
+  line-height:40px;
+  text-align: center;
+  font-size: 20px;
+  text-spacing:5px;
+}
+
+ul#nav1, li#li1, a {
+  text-decoration: none;
+  color: white;
+  display: block;
+}
+ul#nav1 li#li1 a:hover {
+  background-color:blue;
+}
+
 h2 {
   font-size: 36px;
 }
@@ -7,6 +37,15 @@ h2 {
 body#b1 {
   border: 2px solid black;
 }
+
+
+h3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
 
  h5 {
   font-family:cursive;
