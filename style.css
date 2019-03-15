@@ -1,7 +1,6 @@
 /* all rights reserved */
 
 /*nav bar*/
-
 ul#nav1 {
   margin:0px;
   padding:0px;
@@ -29,13 +28,17 @@ ul#nav1, li#li1, a {
 ul#nav1 li#li1 a:hover {
   background-color:blue;
 }
-
+ul {
+  color:black;
+  font-size:30px;
+}
 h2 {
   font-size: 36px;
+  color:gold;
 }
 
 body#b1 {
-  border: 2px solid black;
+  border: 2px solid lime;
 }
 
 
@@ -44,6 +47,8 @@ h3 {
   margin-left: auto;
   margin-right: auto;
   width: 60%;
+  color:#8B4513;
+  font-size:22px;
 }
 
 
@@ -52,6 +57,8 @@ h3 {
     position: absolute;
     right: 100px;
     top: 0px;
+    color: brown;
+    font-size:25px;
 }
 <style>
             html, body {
@@ -108,6 +115,7 @@ p {
   font-size:15px;
   font-family: Tahoma;
   border: 0.5px solid black;
+  color:#00FF00;
 }
 
 ul, h2 {
@@ -136,6 +144,7 @@ th {
   text-align: left;
   font-size: 20px;
   font-family: georgia;
+  color:gold;
 }
 
 table {
@@ -154,6 +163,7 @@ table#t01 {
 
  td {
    font-family:Helvetica;
+   color:lime
  }
 
 /*end of table area*/
@@ -178,6 +188,7 @@ h1 {
   margin-left: auto;
   margin-right: auto;
   width: 30%;
+  color:#EEE8AA;
 }
 
 h1#copy2 {
