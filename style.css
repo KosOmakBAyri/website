@@ -8,6 +8,14 @@ ul#nav1 {
   color:blue;
 }
 
+div#content {
+  background-color: #35978f;
+  margin: auto;
+  width: 80%;
+  border: 7px solid black;
+  padding: 10px;
+}
+
  ul#nav1, li#li1 {
   float:left;
   width:200px;
@@ -25,12 +33,15 @@ ul#nav1, li#li1, a {
   color: white;
   display: block;
 }
+
 ul#nav1 li#li1 a:hover {
   background-color:blue;
 }
+
 ul {
   color:black;
   font-size:30px;
+  text-shadow:1px 1px;
 }
 h2 {
   font-size: 36px;
@@ -39,6 +50,11 @@ h2 {
 
 body#b1 {
   border: 2px solid lime;
+  background-image: url(https://www.washingtonpost.com/resizer/LgggStkyddK3qfFPzM3cO5Ch_aA=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EBULPVFULQI6PG4TXFYEHZL2EI.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
 }
 
 
@@ -47,7 +63,7 @@ h3 {
   margin-left: auto;
   margin-right: auto;
   width: 60%;
-  color:#8B4513;
+  color:#03D1FF;
   font-size:22px;
 }
 
@@ -55,17 +71,13 @@ h3 {
  h5 {
   font-family:cursive;
     position: absolute;
-    right: 100px;
-    top: 0px;
+    right: 25px;
+    top: 200px;
     color: brown;
     font-size:25px;
-}
-<style>
-            html, body {
-    width: 100%;
-    height: 100%;
-    margin: 0;
-    padding: 0;
+    transform: rotate(270deg);
+	transform-origin: left center 50;
+  float:center;
 }
 
 /*cars area*/
@@ -170,6 +182,10 @@ table#t01 {
 
 /* copyright area*/
 
+body#b1 {
+  background-repeat: no-repeat;
+}
+
 .copyright {
   border: 2px solid white;
   background-color: black;
@@ -188,7 +204,7 @@ h1 {
   margin-left: auto;
   margin-right: auto;
   width: 30%;
-  color:#EEE8AA;
+  color:#22A3E3;
 }
 
 h1#copy2 {
