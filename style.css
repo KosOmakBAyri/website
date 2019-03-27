@@ -2,10 +2,36 @@
 
 /*nav bar*/
 ul#nav1 {
-  margin:0px;
-  padding:0px;
+  margin: 0px;
+  padding: 0px;
   list-style: none;
-  color:blue;
+
+}
+
+ul#nav1 li#li1 ul li {
+  display: none;
+}
+ul#nav1 li#li1:hover ul li {
+  display:block;
+}
+
+ul#nav1 li#li1 {
+  float:left;
+  width:200px;
+  height: 40px;
+  background-color:grey;
+line-height: 40px;
+text-align: center;
+font-size:20px;
+}
+
+ul#nav1, li#li1, a {
+  text-decoration: none;
+  display:block
+}
+ul#nav1 li#li1 a:hover {
+  background-color: blue;
+
 }
 
 div#content {
@@ -16,27 +42,6 @@ div#content {
   padding: 10px;
 }
 
- ul#nav1, li#li1 {
-  float:left;
-  width:200px;
-  height:40px;
-  background-color:grey;
-  opacity:.8;
-  line-height:40px;
-  text-align: center;
-  font-size: 20px;
-  text-spacing:5px;
-}
-
-ul#nav1, li#li1, a {
-  text-decoration: none;
-  color: white;
-  display: block;
-}
-
-ul#nav1 li#li1 a:hover {
-  background-color:blue;
-}
 
 ul {
   color:black;
