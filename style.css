@@ -1,40 +1,30 @@
 /* all rights reserved */
 
-/*nav bar*/
-ul#nav1 {
-  margin: 0px;
-  padding: 0px;
-  list-style: none;
-
-}
-
-ul#nav1 li#li1 ul li {
-  display: none;
-}
-ul#nav1 li#li1:hover ul li {
-  display:block;
-}
-
-ul#nav1 li#li1 {
-  float:left;
-  width:200px;
-  height: 40px;
-  background-color:grey;
-line-height: 40px;
-text-align: center;
-font-size:20px;
-}
-
-ul#nav1, li#li1, a {
+/*nav bar for both*/
+nav {
+  font-size:20px;
   text-decoration: none;
-  display:block
+  border:5px solid black;
+  word-spacing: 65px;
+  text-decoration-style: solid;
 }
-ul#nav1 li#li1 a:hover {
-  background-color: blue;
+  /*nav bar for both end*/
 
+/*about us page*/
+div {
+background-color: #35978f;
+margin: auto;
+width: 80%;
+border: 7px solid black;
+padding: 10px;
+}
+body#aboutbody{
+background-image: url(https://www.washingtonpost.com/resizer/LgggStkyddK3qfFPzM3cO5Ch_aA=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EBULPVFULQI6PG4TXFYEHZL2EI.jpg);
 }
 
-div#content {
+/*End of about us*/
+
+div {
   background-color: #35978f;
   margin: auto;
   width: 80%;
@@ -77,7 +67,7 @@ h3 {
   font-family:cursive;
     position: absolute;
     right: 25px;
-    top: 200px;
+    top: 250px;
     color: brown;
     font-size:25px;
     transform: rotate(270deg);
@@ -135,7 +125,7 @@ p {
   color:#00FF00;
 }
 
-ul, h2 {
+ul#cars, h2 {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -204,12 +194,12 @@ h1#copy1 {
 }
 
 h1 {
-  font-size:45px;
+  font-size:40px;
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 30%;
-  color:#22A3E3;
+  color:blue;
 }
 
 h1#copy2 {
