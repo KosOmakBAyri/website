@@ -1,0 +1,374 @@
+<!doctype html>
+<html>
+<body id=b1> <!--#35978f-->
+  <div id=content>
+  <head>
+    <title> Fastest-Cars-in-2019</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <!--start of nav bar-->
+    <nav>
+      <a href="aboutus.html">About</a> |
+      <a href="https://www.lamborghini.com/en-en/models/aventador/aventador-svj" target="_blank">Lamborghini</a> |
+      <a href="https://www.audi.com/en/experience-audi/models-and-technology/concept-cars/audi-pb18-e-tron.html" target="_blank">Audi</a> |
+      <a href="https://www.mercedes-benz.com/en/mercedes-benz/vehicles/passenger-cars/mercedes-benz-concept-cars/vision-eq-silver-arrow-show-car-world-premiere/" target="_blank">Mercedes</a> |
+      <a href="https://www.bugatti.com/divo/" target="_blank">Bugatti</a> |
+      <a href="http://www.rimac-automobili.com/en/hypercars/c_two/" target="_blank">Rimac</a>
+    </nav>
+  <!--End of nav bar-->
+<h1>Fastest Cars in 2019</h1>
+<h5>Made By Tarek Al-Bakri and Adam Ali</h5>
+&nbsp;
+<h3>Do you know the fastest cars in 2019? Want to keep up with modernity? Are rich as hell? Well... These cars are for you!!</h3>
+&nbsp;
+<!-- car list -->
+  <h2>Lamborghini Aventador SVJ </h2>
+    <ul id=cars>
+      <li id=cars> Engine:v12</li>
+      <li id=cars> 0-100 in 2.8 seconds</li>
+      <li id=cars>Top speed 350 km/h</li>
+    </ul>
+    <p>The future is unknown. It is a journey, an adventure. And above all, it is a challenge.
+Lamborghini has never shied away from challenges, which is precisely why it created the new Aventador SVJ. To combine cutting-edge technology with extraordinary design, without ever coming to compromises.
+In a future driven by technology, it’s easy to lose track of emotions. But in the future we are shaping, real emotions won’t be left behind. Because at the wheel, there will always be a person.
+Aventador SVJ. Real emotions shape the future.</p>
+     <a href="https://www.lamborghini.com/en-en/models/aventador/aventador-svj" target="_blank">For more info</a>
+     &nbsp;
+     <a href="https://www.lamborghini.com/en-en">
+    <img src=https://www.fckerbecklamborghini.com/videos/svj.jpg alt="Lamborghini Aventador SVJ" style=width:1000px;height:600px; class="lamborghini">
+</a>
+<hr>
+&nbsp;
+  <h2>Audi PB18 E-Tron</h2>
+    <ul id=cars>
+      <li id=cars>3 Electric engines</li>
+      <li id=cars>671 HP</li>
+      <li id=cars> 0-100 in 2 seconds</li>
+    </ul>
+    <p>In the Audi PB18 e-tron, the driver is the one steering and stepping on the gas or brake pedal. There are therefore no complex systems for piloted driving on board and no comfort features to add weight. In their place are a driver’s seat and cockpit that are integrated into an inner monocoque shell that can be slid laterally. When driven solo, the monocoque can be positioned in the center of the interior as in a monoposto – the perfect location for the racetrack. This is made possible not least by the by-wire design of the steering and pedals; a mechanical connection of the control elements is not needed.</p>
+<a href="https://www.audi.com/en/experience-audi/models-and-technology/concept-cars/audi-pb18-e-tron.html" target="_blank">For more info</a>
+&nbsp;
+<img src=https://www.audi.com/content/dam/gbp2/experience-audi/models-and-technology/concept-cars/pb18-e-tron/1920x1080-desktop-concept-cars-pb18etron-2.jpg?downsize=1920px:*&imwidth=1920 alt="Audi PB18 E-Tron" style=width:1000px;height:600px; class="Audi">
+<hr>
+&nbsp;
+<!-- Add more about engine and 1-100 -->
+  <h2>Mercedes Vision EQ Silver Arrow</h2>
+    <ul id=cars>
+      <li id=cars> 750 HP</li>
+      <li id=cars> 80 kWh battery</li>
+    </ul>
+    <p>The Vision EQ Silver Arrow show car celebrates its world premiere. The one-seater vehicle is an homage to the record-breaking W 125 car from 1937. “Over 80 years ago, the historic Silver Arrows demonstrated that Mercedes-Benz was a pioneer when it came to speed thanks, among other things, to their streamlined shape,” says Gorden Wagener, Chief Design Officer at Daimler AG. “The Vision EQ Silver Arrow draws on that legacy. Intended for acceleration and driving pleasure, it embodies Progressive Luxury and provides an insight into the future of our design. As a result, the show car drives the design idiom of our new EQ product and technology brand to the top.” The EQ brand is shaped by the avant-garde, distinct aesthetic of Progressive Luxury. This arises from the combination of a previously unknown beauty, the conscious clash of digital and analogue elements as well as the seamless merging of intuitive and physical design.</p>
+    <a href="https://www.mercedes-benz.com/en/mercedes-benz/vehicles/passenger-cars/mercedes-benz-concept-cars/vision-eq-silver-arrow-show-car-world-premiere/" target="_blank">For more info</a>
+&nbsp;
+    <img src=https://cdn.vox-cdn.com/thumbor/XUWHbrBT9AJO71PFsTtD8ZJ1gqg=/0x0:2040x1148/1200x675/filters:focal(977x457:1303x783)/cdn.vox-cdn.com/uploads/chorus_image/image/61635405/eq_vision_vladsavov.0.jpg alt="Mercedes Vision EQ Silver arrow" style=width:1000px;height:600px class="Mercedes">
+<hr>
+&nbsp;
+  <h2>Bugatti Divo</h2>
+    <ul id=cars>
+      <li id=cars>Engine w16</li>
+      <li id=cars>1500 HP</li>
+      <li id=cars>0-100 in 2.4 seconds</li>
+    </ul>
+    <p>The DIVO is the most agile and dynamic car BUGATTI has ever created - a perfect homage for the 110th anniversary, which will be held in 2019. A monumental driving machine, production will be strictly limited to just 40 units. Combining heart-stopping acceleration and greater downforce, it is made to excite – a car built for corners. Thanks to its optimal handling performance, the DIVO dances nimbly through curves; every bend becomes an exhilarating moment, a thrill that endures.
+The DIVO is a more extreme BUGATTI. It represents a new interpretation of our philosophy ‘form follows performance’ with an uncompromising pursuit of the utmost aerodynamic efficiency. To shape the future, we have embraced the past. The DIVO harks back to the golden era of coachbuilding, a proud tradition nearly a century old, by uniting a rolling chassis with a brand new body. The design is imposingly powerful and striking – unmistakably BUGATTI.</p>
+    <a href="https://www.bugatti.com/divo/" target="_blank">For more info</a>
+&nbsp;
+    <img src=https://assets.bugatti.com/fileadmin/_processed_/sei/p245/se-image-472895835edf91a5b24d3974a05db7c5.jpg alt="Bugatti Divo" style=width:1000px;height:600px class="Divo">
+<hr>
+&nbsp;
+  <h2>Bugatti Chiron</h2>
+    <ul id=cars>
+      <li id=cars>Engine w16</li>
+      <li id=cars>1500 HP</li>
+      <li id=cars>0-100 in 2.4 seconds</li>
+    </ul>
+    <p>The CHIRON is the fastest, most powerful, and exclusive production super sports car in BUGATTI’s history. Its sophisticated design, innovative technology, and iconic, performance-oriented form make it a unique masterpiece of art, form and technique, that pushes boundaries beyond imagination.BUGATTI owes its distinctive character to a family of artists and engineers, and has always strived to offer the extraordinary, the unrivalled, the best. Every element of the CHIRON is a combination of reminiscence to its history and the most innovative technology. The result is a unique creation of enduring value, and breathtaking automotive accomplishment.</p>
+    <a href="https://www.bugatti.com/chiron/" target="_blank">For more info</a>
+&nbsp;
+    <img src=https://cdn.motor1.com/images/mgl/vOp6A/s1/2016-bugatti-chiron.jpg alt="Bugatti Chiron" style=width:1000px;height:600px class="Chiron">
+<hr>
+&nbsp;
+  <h2>Rimac c_two</h2>
+    <ul id=cars>
+      <li id=cars>1914 HP</li>
+      <li id=cars >0-100 in 1.05 seconds</li>
+      <li id=cars> Top speed 412 km/h</li>
+    </ul>
+    <p>Penned by in-house team at Rimac, the graceful, agile form of the C_Two features timeless, elegant styling. Following simple aesthetic rules based around balanced efficiency, the car is neither aggressive nor passive - but somewhere in-between. A delicate network of performance, efficiency and beauty.</p>
+    <a href="http://www.rimac-automobili.com/en/hypercars/c_two/" target="_blank">For more info</a>
+&nbsp;
+    <img src=http://www.rimac-automobili.com/ctwo/gallery/c_two-rimac-torque-vectoring.jpg alt="Rimac c_two" style=width:1000px;height:600px class="Rimac">
+<hr>
+&nbsp;
+<!-- end of car list-->
+
+<!-- start of table-->
+
+
+  <table style="width:100%" id="t01">
+    <caption class=t01caption>Fastest Cars In 2019
+    <tr>
+      <th>Car</th>
+      <th>Speed</th>
+      <th>Rank</th>
+    </tr>
+    <tr>
+      <td>Lamorghini Aventador SVJ</td>
+      <td>350km</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Audi PB18 E-Tron</td>
+      <td>0-100kmh in 2 seconds</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Mercedes Vision EQ Silver Arrow</td>
+      <td>0-97kmh in 2 seconds</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>Bugatti Divo</td>
+      <td>0-100kmh in 2.4 seconds</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Bugatti Chiron</td>
+      <td>0-100kmh in 2.4 seconds</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Rimac c_two</td>
+      <td>0-100kmh in 1.05 seconds</td>
+      <td>1</td>
+  </table>
+
+<!-- end of table-->
+
+<!-- end of body -->
+</body>
+&nbsp;
+</div>
+<!-- Start of copyrihgt claim -->
+
+<div class=copyright>
+
+<h1 id="copy1">All rights reserved TA</h1>
+
+&nbsp;
+
+<h1 id="copy2">Lamborghini Rimac Mercedes Bugatti Audi </h1>
+
+&nbsp;
+
+
+</div>
+<!-- end of cpyright claim-->
+
+/* all rights reserved */
+
+/*nav bar*/
+nav {
+  font-size:20px;
+  text-decoration: none;
+  border:5px solid black;
+  word-spacing: 65px;
+  text-decoration-style: solid;
+}
+  /*nav bar end*/
+
+
+div#content {
+  background-color: #35978f;
+  margin: auto;
+  width: 80%;
+  border: 7px solid black;
+  padding: 10px;
+}
+
+
+ul {
+  color:black;
+  font-size:30px;
+  text-shadow:1px 1px;
+}
+h2 {
+  font-size: 36px;
+  color:gold;
+}
+
+body#b1 {
+  border: 2px solid lime;
+  background-image: url(https://www.washingtonpost.com/resizer/LgggStkyddK3qfFPzM3cO5Ch_aA=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EBULPVFULQI6PG4TXFYEHZL2EI.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+}
+
+
+h3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  color:#03D1FF;
+  font-size:22px;
+}
+
+
+ h5 {
+  font-family:cursive;
+    position: absolute;
+    right: 25px;
+    top: 250px;
+    color: brown;
+    font-size:25px;
+    transform: rotate(270deg);
+	transform-origin: left center 50;
+  float:center;
+}
+
+/*cars area*/
+.lamborghini {
+              display: block;
+              margin-left: auto;
+              margin-right: auto;
+              width: 50%;
+            }
+
+.Audi {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.Mercedes {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.Divo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.Chiron {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.Rimac {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+p {
+  font-size:15px;
+  font-family: Tahoma;
+  border: 0.5px solid black;
+  color:#00FF00;
+}
+
+ul#cars, h2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+li {
+  text-decoration-line: underline;
+}
+
+/*end of car area*/
+
+/*beginning of tabe area*/
+table, th, td {
+  border: 2px solid black;
+}
+
+th, td {
+  padding: 15px;
+}
+
+th {
+  text-align: left;
+  font-size: 20px;
+  font-family: georgia;
+  color:gold;
+}
+
+table {
+  border-spacing: 5px;
+}
+
+table#t01 {
+  width: 100%;
+  background-color: #5f9ea0;
+}
+
+ .t01caption {
+   font-size: 36px;
+   font-family:fantasy;
+ }
+
+ td {
+   font-family:Helvetica;
+   color:lime
+ }
+
+/*end of table area*/
+
+/* copyright area*/
+
+body#b1 {
+  background-repeat: no-repeat;
+}
+
+.copyright {
+  border: 2px solid white;
+  background-color: black;
+}
+h1#copy1 {
+    color: #35978f;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+h1 {
+  font-size:40px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  color:blue;
+}
+
+h1#copy2 {
+  word-spacing: 50px;
+  font-size:12px;
+  color: #35978f;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+/*end of copyright area*/
+
+/*image border*/
+img {
+  border: 6px solid black
+}
